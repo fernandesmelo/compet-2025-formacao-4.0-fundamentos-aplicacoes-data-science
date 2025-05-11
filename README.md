@@ -13,6 +13,10 @@ Este projeto analisa a remuneração média dos docentes em exercício na educa�
 ## 👨🏽‍💻 Versão das Tecnologias
 
 * Python 3.12.8
+* Bibliotecas:
+  * ```pandas```: Manipulação e análise de dados.
+  * ```matplotlib``` e ```seaborn```: Visualização de dados.
+  * ```openpyxl```: Leitura de arquivos Excel.
 
 ## ✒️ Autor
 
