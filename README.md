@@ -1,7 +1,8 @@
 # Análise da Remuneração Média dos Professores em Exercício na Educação Básica no Brasil em 2020 
 Este projeto analisa a remuneração média dos docentes em exercício na educação básica no Brasil em 2020, com base em dados fornecidos pelo INEP. Ele utiliza ferramentas de ciência de dados para processar, analisar e visualizar informações sobre salários de professores, considerando diferentes níveis de escolaridade e dependências administrativas (Federal, Estadual, Municipal, Privada e Pública).
 
-![Captura de tela 2025-05-11 211253](https://github.com/user-attachments/assets/596ee073-98a3-4335-9daa-b36078fff4cd)
+![Captura de tela 2025-05-11 211253](https://github.com/user-attachments/assets/596ee073-98a3-4335-9daa-b36078fff4cd) <br>
+Feito no Power BI
 
 ## 🛠️ Construído com
 
