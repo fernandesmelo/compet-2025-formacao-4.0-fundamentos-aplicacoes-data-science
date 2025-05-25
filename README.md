@@ -47,7 +47,7 @@ git clone https://github.com/fernandesmelo/compet-2025-formacao-4.0-fundamentos-
 ```
 #### 2. Acesse a pasta do projeto
 ```bash
-cd fernandesmelo-formacao-4.0-fundamentos-aplicacoes-data-science
+cd compet-2025-formacao-4.0-fundamentos-aplicacoes-data-science
 ```
 
 #### 3. Crie e ative um ambiente virtual
